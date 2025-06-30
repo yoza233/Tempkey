@@ -1,5 +1,12 @@
 [
   {
+    "id": "a8c9201094487743",
+    "username": "kimhn",
+    "password": "kimhn",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "a8c9201095487743",
     "username": "kimhn",
     "password": "kimhn",
